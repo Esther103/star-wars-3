@@ -81,7 +81,7 @@ export const Planetsprofile = props => {
 								<Link to="/">
 									<span
 										className="btn btn-primary btn-lg pos1"
-										style={{ color: "white", backgroundColor: "rgb(121, 104, 9)", border: "none" }}
+										style={{ color: "white", backgroundColor: "red", border: "none" }}
 										href="#"
 										role="button">
 										Back home

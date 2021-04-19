@@ -87,7 +87,7 @@ const getState = ({ getStore, getActions, setStore }) => {
             },*/
 
 			exampleFunction: () => {
-				getActions().changeColor(0, "green");
+				getActions().changeColor(0, "white");
 			},
 			loadSomeData: () => {
 				/**
